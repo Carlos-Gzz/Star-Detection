@@ -1,0 +1,20 @@
+# Image and video processing
+opencv-python
+
+# Machine learning and deep learning
+tensorflow
+keras
+
+# Data handling and manipulation
+numpy
+pandas
+
+# Image preprocessing
+scikit-image
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+scipy
