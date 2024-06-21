@@ -10,6 +10,7 @@ numpy
 pandas
 
 # Image preprocessing
+scikit-learn
 scikit-image
 
 # Visualization
