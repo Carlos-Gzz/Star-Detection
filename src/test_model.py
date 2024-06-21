@@ -17,7 +17,7 @@ def main():
     model = load_your_model()
 
     # Path to a sample image from your dataset
-    sample_image_path = 'C:/Users/carlo/OneDrive/Documents/Developer/Python/Star-Detection/data/processed/non_star_0.png'  # Updated to your provided path
+    sample_image_path = 'C:/Users/carlo/OneDrive/Documents/Developer/Python/Star-Detection/data/processed/non_star_0.png'
 
     processed_image = preprocess_image(sample_image_path)
     prediction = model.predict(processed_image)
